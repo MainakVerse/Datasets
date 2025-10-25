@@ -1,12 +1,12 @@
 # Datasets
 A bunch of some 200 datasets. You can call it mini-kaggle :)
 
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepoName?style=for-the-badge&logo=github)](https://github.com/YourUsername/YourRepoName/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YourUsername/YourRepoName?style=for-the-badge&logo=github)](https://github.com/YourUsername/YourRepoName/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/YourUsername/YourRepoName?style=for-the-badge)](https://github.com/YourUsername/YourRepoName/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/YourUsername/YourRepoName?style=for-the-badge)](https://github.com/YourUsername/YourRepoName/pulls)
-[![License](https://img.shields.io/github/license/YourUsername/YourRepoName?style=for-the-badge)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/YourUsername/YourRepoName?style=for-the-badge&color=blue)](https://github.com/YourUsername/YourRepoName/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/MainakVerse/Datasets?style=for-the-badge&logo=github)](https://github.com/YourUsername/YourRepoName/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/MainakVerse/Datasets?style=for-the-badge&logo=github)](https://github.com/YourUsername/YourRepoName/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/MainakVerse/Datasets?style=for-the-badge)](https://github.com/YourUsername/YourRepoName/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/MainakVerse/Datasets?style=for-the-badge)](https://github.com/YourUsername/YourRepoName/pulls)
+[![License](https://img.shields.io/github/license/MainakVerse/Datasets?style=for-the-badge)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/MainakVerse/Datasets?style=for-the-badge&color=blue)](https://github.com/YourUsername/YourRepoName/commits/main)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Dataset Count](https://img.shields.io/badge/Datasets-200+-green?style=for-the-badge&logo=kaggle)](#)
 
